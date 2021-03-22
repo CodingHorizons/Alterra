@@ -1,8 +1,3 @@
-# Welcome to Horizon Hub
-
-The Offical site for Azure Horizons and Coding Horizons
-
-
 ## Pages
 (not yet set up)
 ## Links
